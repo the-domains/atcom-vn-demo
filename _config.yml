@@ -1,0 +1,28 @@
+name: atcom.vn demo
+favicon: null
+layout_spectrum: 0.8698321795091033
+typography_spectrum: 0.10125487158074975
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.6337574643548578
+  lightness: 0.4193035161588341
+  saturation: 0.08600595593452454
+  rhythmicContrast: 0.6689503865782171
+purpose: []
